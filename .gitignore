@@ -27,6 +27,10 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
+
+design.md
+next-auth-oauth2.json
 
 # vercel
 .vercel
